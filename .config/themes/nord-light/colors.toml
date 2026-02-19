@@ -1,0 +1,32 @@
+# Nord Light
+# Snow Storm as backgrounds, Polar Night as text
+
+accent = "#5e81ac"
+cursor = "#5e81ac"
+foreground = "#2e3440"
+background = "#eceff4"
+selection_foreground = "#eceff4"
+selection_background = "#5e81ac"
+
+color0 = "#3b4252"
+color1 = "#bf616a"
+color2 = "#7ea06c"
+color3 = "#d5a64d"
+color4 = "#5e81ac"
+color5 = "#b48ead"
+color6 = "#88c0d0"
+color7 = "#d8dee9"
+color8 = "#4c566a"
+color9 = "#bf616a"
+color10 = "#7ea06c"
+color11 = "#d5a64d"
+color12 = "#5e81ac"
+color13 = "#b48ead"
+color14 = "#8fbcbb"
+color15 = "#eceff4"
+
+# Extra metadata
+theme_type = "light"
+gtk_theme = "adw-gtk3"
+icon_theme = "Papirus-Light"
+starship_palette = "nord-light"

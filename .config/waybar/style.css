@@ -1,5 +1,4 @@
-@import 'colors/nord.css';
-
+@import '../../themes/current/waybar.css';
 * {
   border: none;
   border-radius: 0px;

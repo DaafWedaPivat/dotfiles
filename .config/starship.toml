@@ -45,6 +45,16 @@ nord11 = '#BF616A'
 nord13 = '#EBCB8B'
 nord14 = '#A2BE8A'
 
+[palettes.nord-light]
+nord0 = '#ECEFF4'
+nord1 = '#E5E9F0'
+nord2 = '#D8DEE9'
+nord3 = '#C8CED8'
+nord4 = '#2E3440'
+nord11 = '#BF616A'
+nord13 = '#D5A64D'
+nord14 = '#7EA06C'
+
 # username, host and OS
 [username]
 style_root = 'bg:nord0 fg:nord11'
