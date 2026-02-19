@@ -1,0 +1,10 @@
+# Browser data (personal profile info)
+.config/zen/
+
+# Runtime/session data
+.config/pulse/
+.config/dconf/
+.config/session/
+.config/go/
+.config/xsettingsd/
+.config/nwg-look/
